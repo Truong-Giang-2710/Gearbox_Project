@@ -5,24 +5,30 @@ This is a personal project I undertook to strengthen my understanding and skills
 All calculations were performed manually, following mechanical engineering standards, design formulas, and technical tables learned throughout the course.
 
 📚 Contents of the Work
+
 I. Power Calculation & Transmission Characteristics
    Analyze working conditions and technical requirements
    Calculate power, torque, and load characteristics
+   
 II. Motor Selection & Transmission Ratio Distribution
    Select a suitable motor
    Determine the total transmission ratio and allocate it across the stages
+   
 III. Gear Train Design
    Select gear type: helical cylindrical gears
    Calculate key gear parameters: module, number of teeth, pitch, etc.
    Strength verification: contact stress and bending stress
+   
 IV. Shaft Design
    Define shaft layout and dimensions
    Calculate bending and torsional moments
    Stress analysis and deformation checks
    Key and spline design
+   
 V. Bearing Selection
    Choose bearing types based on load and speed
    Calculate bearing life and verify loading capacity
+   
 VI. Gearbox Housing Design
    Analyze the structure and function of the housing
    Design inspection holes, oil filling/draining holes
