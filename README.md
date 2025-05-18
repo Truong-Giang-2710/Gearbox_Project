@@ -38,7 +38,6 @@ VI. Gearbox Housing Design
    Manual calculations based on Vietnamese/ISO mechanical standards
    Data from textbooks 
    Drafting in AutoCAD (optional)
-   3D modeling in SolidWorks (for future enhancement)
 
 🎯 Project Goals
    Mechanical design and calculation skills
