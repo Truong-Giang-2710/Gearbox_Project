@@ -1,4 +1,5 @@
 📘 Mechanical Transmission System Design – Gearbox Project
+
 🧑‍💻 Introduction
 This is a personal project I undertook to strengthen my understanding and skills in the subject of Machine Elements / Mechanical Power Transmission System Design. The project focuses on the design and calculation of a complete mechanical transmission system including gears, shafts, bearings, keys, and the gearbox housing — commonly used in industrial machinery.
 All calculations were performed manually, following mechanical engineering standards, design formulas, and technical tables learned throughout the course.
